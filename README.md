@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zoulkifle SALIFOU</h1>
 <h3 align="center">A fullstack developper to serve you !</h3>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoul-gog&label=Profile%20views&color=0e75b6&style=flat" alt="zoul-gog" /> </p>
 
