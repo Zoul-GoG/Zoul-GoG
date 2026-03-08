@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zoulkifle SALIFOU</h1>
 <p align="center">
-A <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Node.js+Developer;MERN+Stack+Engineer;Open+Source+Enthusiast&center=true&width=500&height=50">
-</p> to serve you !
+A <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Node.js+Developer;MERN+Stack+Engineer;Backend+Expert&center=true&width=500&height=50"> to serve you !
+</p>
 
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
