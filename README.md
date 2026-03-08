@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **VueJs, NodeJs, Laravel**
 
-- 📫 How to reach me **zoulkifle.salifou@epitech.eu**
+- 📫 How to reach me **zoulkiflesalifou@gmail.com**
 
 - 📄 Know about my experiences [https://zoul.dev/files/CV_Zoulkifle_SALIFOU_EN.pdf](https://zoul.dev/files/CV_Zoulkifle_SALIFOU_1.0.pdf)
 
