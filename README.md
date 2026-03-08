@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zoulkifle SALIFOU</h1>
 <p align="center">
-A <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Node.js+Developer;MERN+Stack+Engineer;Backend+Expert&center=true&width=500&height=50"> to serve you !
+<img src="https://readme-typing-svg.herokuapp.com?lines=A+Fullstack+Developer+to+serve+you+!;A+Node.js+Developer+to+serve+you+!;A+MERN+Stack+Engineer+to+serve+you+!;A+Backend+Expert+to+serve+you+!&center=true&width=500&height=50">
 </p>
 
 
